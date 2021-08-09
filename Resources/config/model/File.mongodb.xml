@@ -14,15 +14,15 @@
             </index>
         </indexes>
 
-        <field fieldName="domain" name="domain" type="string" />
+        <field name="domain" type="string" />
 
-        <field fieldName="locale" name="locale" type="string" />
+        <field name="locale" type="string" />
 
-        <field fieldName="extention" name="extention" type="string" />
+        <field name="extention" type="string" />
 
-        <field fieldName="path" name="path" type="string" />
+        <field name="path" type="string" />
 
-        <field fieldName="hash" name="hash" type="string" />
+        <field name="hash" type="string" />
 
     </mapped-superclass>
 </doctrine-mongo-mapping>
